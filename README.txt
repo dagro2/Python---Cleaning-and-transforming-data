@@ -1,13 +1,13 @@
 Dataset contains Czech bank transactions and account info.
 
-Objective:
-- Examine/clean the individual dataset
-- Combine them into a single dataset, which is subject to more cleaning
+Goals:
+- Check and clean the dataset
+- Join files into a single dataset and make further adjustments/cleaning on the merged dataset
 - Create new columns based on existing columns
 - Prepare the new dataset for further analysis
 
-We'll work on three datasets in three separate csv files:
+Start from the three datasets in three csv files:
 
-  - account: each record describes static characteristics of an account
-  - transaction: each record describes one transaction on an account
-  - district: each record describes demographic characteristics of a district
+  - account: with characteristics of an account
+  - transaction: describes transactions on the accounts
+  - district: demographics of a district
