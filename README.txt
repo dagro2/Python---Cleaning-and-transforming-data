@@ -1,4 +1,4 @@
-The data is based on real anonymized Czech bank transactions and account info.
+Dataset contains Czech bank transactions and account info.
 
 Objective:
 - Examine/clean the individual dataset
